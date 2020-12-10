@@ -1,5 +1,9 @@
 # Introduction
 
+## What this book is
+
+This book is writter for beginners of JavaScript, who are potential beginners to programming at all. It is written to serve as a practical introduction and not an academic textbook, but we intend to explain things precisely to avoid the risks of you getting things wrong.
+
 ## What is programming, anyway?
 
 ## Why JavaScript
