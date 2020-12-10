@@ -1,10 +1,12 @@
-# My First JavaScript
+# My First JavaScript*
 Essential JavaScript in one week.
+
+\* In honor of JR East's 2010 campaign *My First Aomori*.
 
 ## License
 Copyright &copy; 2020 東京大学教養学部学生自治会.
 
-Apache 2.0.
+Licensed under the Apache 2.0 License.
 
 ## Read
 - [English](en/)
