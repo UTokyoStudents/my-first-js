@@ -7,3 +7,9 @@
   - Expressions and statements
   - JSON
 - [2. Types, values and objects](2.md)
+  - "Value" types, Symbols and ordinary Objects
+  - Builtin Objects
+- [3. Object system](3.md)
+  - Objects are dictionary maps
+  - Prototypes and inheritance
+  - Classes
