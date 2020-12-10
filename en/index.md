@@ -8,8 +8,18 @@
   - JSON
 - [2. Types, values and objects](2.md)
   - "Value" types, Symbols and ordinary Objects
+  - Functions
   - Builtin Objects
 - [3. Object system](3.md)
   - Objects are dictionary maps
   - Prototypes and inheritance
   - Classes
+- [4. JavaScript programming](4.md)
+  - Control flow
+  - Variables and scopes
+  - Common patterns
+  - Asynchronous programming
+- [5. JavaScript environments](5.md)
+  - What is APIs?
+  - Web APIs
+  - Node.JS environment
