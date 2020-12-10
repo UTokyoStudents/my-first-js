@@ -1,5 +1,5 @@
 # Contents
-- [0. A short introduction to JavaScript](0.md)
+- [0. Introduction](0.md)
   - What is programming, anyway?
   - How JavaScript is structured
 - [1. Syntax](1.md)
