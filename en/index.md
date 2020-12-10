@@ -1,22 +1,24 @@
 # Contents
 - [0. Introduction](0-introduction.md)
   - What is programming, anyway?
+  - ECMAScript standard
   - How JavaScript is structured
 - [1. Syntax](1-syntax.md)
   - The JavaScript file
   - Expressions and statements
   - JSON
-- [2. Types, values and objects](2.md)
+  - Control flow
+  - Variables and scopes
+- [2. Types, values and objects](2-types.md)
   - "Value" types, Symbols and ordinary Objects
   - Functions
   - Builtin Objects
-- [3. Object system](3.md)
+- [3. Object system](3-objects.md)
   - Objects are dictionary maps
   - Prototypes and inheritance
-  - Classes
-- [4. JavaScript programming](4.md)
-  - Control flow
-  - Variables and scopes
+  - Classes in JavaScript
+  - Protocols and interfaces
+- [4. JavaScript programming](4-programming.md)
   - Iterators and Generators
   - Asynchronous programming
   - Metaprogramming, Proxy and Reflection
