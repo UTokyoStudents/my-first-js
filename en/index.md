@@ -1,6 +1,7 @@
 # Contents
 - [0. Introduction](0-introduction.md)
   - What is programming, anyway?
+  - Why JavaScript
   - ECMAScript standard
   - How JavaScript is structured
 - [1. Syntax](1-syntax.md)
@@ -8,7 +9,7 @@
   - Expressions and statements
   - JSON
   - Control flow
-  - Variables and scopes
+  - Variables and scopes (closures)
 - [2. Types, values and objects](2-types.md)
   - "Value" types, Symbols and ordinary Objects
   - Functions
