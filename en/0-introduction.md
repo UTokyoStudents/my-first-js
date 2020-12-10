@@ -20,6 +20,6 @@ It is good for beginning programming with, because you can learn various styles 
 JavaScript is not a subset of Java, or anything directly connected with it, in spite of what it is called.
 However JavaScript is intentionally designed to look like Java, so that it looks familiar to those with experience with Java or other C-influenced popular programming languages.
 
-## How JavaScript is structure
+## How JavaScript is structured
 
 JavaScript is standardised as ECMAScript, a global standard, at ECMA International.
