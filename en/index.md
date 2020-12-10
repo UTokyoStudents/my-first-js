@@ -1,16 +1,16 @@
 # Contents
-- [0. Introduction](0-introduction.md)
+- [0. Introduction](0-introduction.html)
   - What is programming, anyway?
   - Why JavaScript
   - ECMAScript standard
   - How JavaScript is structured
-- [1. Syntax](1-syntax.md)
+- [1. Syntax](1-syntax.html)
   - The JavaScript file
   - Expressions and statements
   - JSON
   - Control flow
   - Variables and scopes (closures)
-- [2. Types, values and objects](2-types.md)
+- [2. Types, values and objects](2-types.html)
   - "Value" types, Symbols and ordinary Objects
   - Functions
   - Builtin Objects
@@ -19,12 +19,12 @@
   - Prototypes and inheritance
   - Classes in JavaScript
   - Protocols and interfaces
-- [4. JavaScript programming](4-programming.md)
+- [4. JavaScript programming](4-programming.html)
   - Iterators and Generators
   - Asynchronous programming
   - Metaprogramming, Proxy and Reflection
   - Common patterns
-- [5. JavaScript environments](5-environments.md)
+- [5. JavaScript environments](5-environments.html)
   - Event loop
   - What is APIs?
   - Web APIs
