@@ -24,6 +24,7 @@
   - Metaprogramming, Proxy and Reflection
   - Common patterns
 - [5. JavaScript environments](5-environments.md)
+  - Event loop
   - What is APIs?
   - Web APIs
   - Node.JS environment
