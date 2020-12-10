@@ -1,8 +1,8 @@
 # Contents
-- [0. Introduction](0.md)
+- [0. Introduction](0-introduction.md)
   - What is programming, anyway?
   - How JavaScript is structured
-- [1. Syntax](1.md)
+- [1. Syntax](1-syntax.md)
   - The JavaScript file
   - Expressions and statements
   - JSON
@@ -17,9 +17,11 @@
 - [4. JavaScript programming](4.md)
   - Control flow
   - Variables and scopes
-  - Common patterns
+  - Iterators and Generators
   - Asynchronous programming
-- [5. JavaScript environments](5.md)
+  - Metaprogramming, Proxy and Reflection
+  - Common patterns
+- [5. JavaScript environments](5-environments.md)
   - What is APIs?
   - Web APIs
   - Node.JS environment
