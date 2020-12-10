@@ -9,6 +9,11 @@ Many people with less programming experience have ever seen JavaScript, for exam
 Javascript has become popular with the spread of client-side Web programming; however it is now common with Node.JS in server-side apps and command line programs.
 It is also a common choice as an automation/scripting language.
 
-## How JavaScript is structured
+JavaScript is a multi-paradigm language. It is for example based on the tradition of functional programming, inherited from LISP. JavaScript is well known as an example of prototype-based object oriented programming language.
+
+JavaScript is not a subset of Java, or anything directly connected with it, in spite of what it is called.
+However JavaScript is intentionally designed to look like Java, so that it looks familiar to those with experience with Java or other C-influenced popular programming languages.
+
+## How JavaScript is structure
 
 JavaScript is standardised as ECMAScript, a global standard, at ECMA International.
